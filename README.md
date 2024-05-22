@@ -12,6 +12,6 @@
 <p>double-major : AI & SW (Computer Science)</p>
 
 <h4>✨Experience</h4>
-<p>내일배움캠프 백엔드캠프 JAVA & SPRING 과정 (current)</p>
+<p>내일배움캠프 JAVA & SPRING 과정 (current)</p>
 <p>HUFS GNUVIL 2023 Algorithm Study</p>
 
