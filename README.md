@@ -7,7 +7,7 @@
 <h4>⚒️Tools</h4>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
 <h4>✨Experience</h4>
-<p>내일배움캠프 JAVA & SPRING 과정 (current)</p>
+<p>내일배움캠프 JAVA & SPRING Course (current)</p>
 <p>HUFS GNUVIL 2023 Algorithm Study</p>
 <h4>🎓Education</h4>
 <p>Hankuk University of Foriegn Studies(Seoul) 2021.03~ current</p>
