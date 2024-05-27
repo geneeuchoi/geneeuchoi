@@ -10,7 +10,7 @@
 <p>내일배움캠프 JAVA & SPRING Course (current)</p>
 <p>HUFS GNUVIL 2023 Algorithm Study</p>
 <h4>🎓Education</h4>
-<p>Hankuk University of Foriegn Studies(Seoul) 2021.03~ current</p>
+<p>Hankuk University of Foreign Studies(Seoul) 2021.03~ current</p>
 <p>major : Business Administration</p>
 <p>double-major : AI & SW (Computer Science)</p>
 
