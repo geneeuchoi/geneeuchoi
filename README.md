@@ -24,7 +24,7 @@
 ## ✨Experience
 
 - `내일배움캠프 JAVA & SPRING Course` 2024.03 ~ 2024.08
-- `HUFS GNUVIL` Algorithm Study 2023.09 ~ 2023.12
+- `HUFS GNUVIL` Algorithm Study 2023.09 ~ 2023.12, 2024.09 ~ 2024.12
 
 ## 🎓Education
 **<p>Hankuk University of Foreign Studies(Seoul) 2021.03~ current</p>**
