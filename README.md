@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20My%20Page&fontSize=90)
 ## 🙋🏻‍♀️안녕하세요
 <p>Hi, welcome to my page</p>
-<p>I'm YouJin, Back-end developer from Seoul Korea🇰🇷</p>
+<p>I'm YouJin, A Financial IT Consultant from Seoul Korea🇰🇷</p>
 
 ## 📱Contact
 <p>
