@@ -6,7 +6,6 @@
 ## 📱Contact
 <p>
    <a href="https://www.linkedin.com/in/youjin-choi-42357830a/"><img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=[https://velog.io/@chyj2108](https://www.linkedin.com/in/youjin-choi-42357830a/)"/></a>&nbsp
-  <a href="https://velog.io/@chyj2108"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@chyj2108"/></a>&nbsp
   <a href="mailto:chmh3370@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=chmh3370@gmail.com"/></a>
 
 </p>
